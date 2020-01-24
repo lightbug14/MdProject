@@ -1,5 +1,15 @@
 # MdProject
 
+---
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+---
+
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
